@@ -1,0 +1,30 @@
+/home/gb/Arduino/sketch_oct12a/sketch_oct12a-build/core/Mailbox.cpp.o: \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/Mailbox.cpp \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/Arduino.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/common.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/variants/duos/variant.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/variants/duos/variant_pins.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/variants/duos/../duo/variant_soc.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/binary.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/stdlib_noniso.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/wiring_digital.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/wiring_constants.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/wiring_analog.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/wiring_shift.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/WInterrupts.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/misc.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/WCharacter.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/WString.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/pgmspace.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/WMath.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/HardwareSerial.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/Stream.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/Print.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/Printable.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/csi/csi_uart.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/csi/csi_common.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/wiring_pulse.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/Tone.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/ControlPWM.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/mailbox.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/cvi/cvi_mailbox.h

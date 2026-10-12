@@ -1,0 +1,60 @@
+[
+  {
+    "added_include_path": "/home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x"
+  },
+  {
+    "added_include_path": "/home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/variants/duos"
+  },
+  {
+    "compile": {
+      "source_path": "/home/gb/Arduino/sketch_oct12a/sketch_oct12a-build/sketch/sketch_oct12a.ino.cpp.merged",
+      "depfile_path": "/home/gb/Arduino/sketch_oct12a/sketch_oct12a-build/sketch/sketch_oct12a.ino.cpp.merged.libsdetect.d"
+    },
+    "compile_task": {
+      "args": [
+        "/home/gb/.arduino15/packages/sophgo/tools/xpack-riscv-none-elf-gcc/13.2.0-2/bin/riscv-none-elf-g++",
+        "-c",
+        "-c",
+        "-I.",
+        "-I/home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include",
+        "-I/home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include",
+        "-I/home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/hal",
+        "-I/home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/csi",
+        "-I/home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/cvi",
+        "-I/home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/hal/dw",
+        "-w",
+        "-Os",
+        "-D__riscv64",
+        "-mcmodel=medany",
+        "-mabi=lp64d",
+        "-march=rv64imfd_zicsr",
+        "-w",
+        "-x",
+        "c++",
+        "-E",
+        "-CC",
+        "-DF_CPU=25000000L",
+        "-DSTART_ADDR=0x9fe00000",
+        "-DIMAGE_SIZE=0x200000",
+        "-DARDUINO=10607",
+        "-DARDUINO_DUO_DEV",
+        "-DARDUINO_ARCH_SG200X",
+        "-DARDUINO_BOARD=\"DUO_DEV\"",
+        "-DARDUINO_VARIANT=\"duos\"",
+        "-DARDUINO_PARTITION_default",
+        "-I/home/gb/Arduino/sketch_oct12a",
+        "-I/home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x",
+        "-I/home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/variants/duos",
+        "/home/gb/Arduino/sketch_oct12a/sketch_oct12a-build/sketch/sketch_oct12a.ino.cpp.merged",
+        "-o",
+        "/dev/null",
+        "-MMD",
+        "-MF",
+        "/home/gb/Arduino/sketch_oct12a/sketch_oct12a-build/sketch/sketch_oct12a.ino.cpp.merged.libsdetect.d"
+      ]
+    }
+  },
+  {
+    "missing_include_h": ""
+  }
+]

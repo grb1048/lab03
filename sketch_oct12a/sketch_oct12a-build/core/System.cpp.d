@@ -1,0 +1,21 @@
+/home/gb/Arduino/sketch_oct12a/sketch_oct12a-build/core/System.cpp.o: \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/System.cpp \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/common.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/variants/duos/variant.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/variants/duos/variant_pins.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/variants/duos/../duo/variant_soc.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/binary.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/csi/csi_gpio_pin.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/csi/csi_gpio.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/csi/csi_common.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/csi/csi_pin.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/csi/csi_adc.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/csi/csi_dma.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/csi/csi_list.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/HardwareSerial.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/Stream.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/Print.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/WString.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/pgmspace.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/include/Printable.h \
+ /home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7/cores/sg200x/bsp/include/csi/csi_uart.h

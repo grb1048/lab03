@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "../..,../..",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "sophgo:SG200X:duos",
+  "hardwareFolders": "/home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7,/home/gb/.arduino15/packages/sophgo/hardware/SG200X/0.2.7",
+  "otherLibrariesFolders": "/home/gb/Arduino/libraries",
+  "sketchLocation": "/home/gb/Arduino/sketch_oct12a"
+}
